@@ -3,6 +3,6 @@
  */
 public class HelloOracle {
   public static void main(String[] args) {
-    System.out.println("Hello Oracle from OMCS");
+    System.out.println("Hello Oracle from OCI");
   }
 }
